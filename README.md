@@ -3,7 +3,7 @@
 - 🌱 Изучаю Rust, WASM, Postgres, Python, Data Science, Swift и пишу свой пет проект для совместных <a target="_blank" href="https://cycled-krd.web.app/">велосипедных тренировок</a>
 - 💪 Довожу до совершенства знания по JavaScript, TypeScript, Angular, NestJS, RxJS, CSS, HTML
 - 📫 Как меня найти:
-<a target="_blank" href="https://t.me/avkoltovich"><img src="https://img.shields.io/badge/Telegram-000000?style=plastic&logo=Telegram&labelColor=black"/></a>
+<a target="_blank" href="https://t.me/alex_from_waliot"><img src="https://img.shields.io/badge/Telegram-000000?style=plastic&logo=Telegram&labelColor=black"/></a>
 <a target="_blank" href="mailto:avkoltovich@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=plastic&logo=Gmail&labelColor=black"/></a>
 <a target="_blank" href="https://www.codewars.com/users/avkoltovich"><img src="https://www.codewars.com/users/avkoltovich/badges/micro"/></a><br>
 
