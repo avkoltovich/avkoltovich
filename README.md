@@ -1,7 +1,9 @@
 # Всем привет 👋
-- 🔭 В настоящее время я работаю Frontend разработчиком в ООО "Первая Мониторинговая Компания"
-- 🌱 Изучаю Rust, WASM, Postgres, Python, Data Science, Swift и пишу свой пет проект для совместных <a target="_blank" href="https://cycled-krd.web.app/">велосипедных тренировок</a>
-- 💪 Довожу до совершенства знания по JavaScript, TypeScript, Angular, NestJS, RxJS, CSS, HTML
+- 🔭 В настоящее время я работаю Frontend разработчиком в ООО "Первая Мониторинговая Компания".
+- 🌱 Изучаю Rust, WASM, Postgres, Python, Data Science, Swift и пишу свой пет проект для совместных <a target="_blank" href="https://becycled.me/">велосипедных тренировок</a>.
+- 💪 Довожу до совершенства знания по JavaScript, TypeScript, Angular, NestJS, RxJS, CSS, HTML.
+- 🏆 Победитель хакатона HACK>123.
+- 🏫 Являюсь наставником в HTML Академии.
 - 📫 Как меня найти:
 <a target="_blank" href="https://t.me/alex_from_waliot"><img src="https://img.shields.io/badge/Telegram-000000?style=plastic&logo=Telegram&labelColor=black"/></a>
 <a target="_blank" href="mailto:avkoltovich@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=plastic&logo=Gmail&labelColor=black"/></a>
