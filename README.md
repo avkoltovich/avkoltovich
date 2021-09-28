@@ -5,7 +5,7 @@
 - 🏆 Победитель хакатона HACK>123.
 - 🏫 Являюсь наставником в HTML Академии.
 - 📫 Как меня найти:
-<a target="_blank" href="https://t.me/alex_from_waliot"><img src="https://img.shields.io/badge/Telegram-000000?style=plastic&logo=Telegram&labelColor=black"/></a>
+<a target="_blank" href="https://t.me/avkoltovich"><img src="https://img.shields.io/badge/Telegram-000000?style=plastic&logo=Telegram&labelColor=black"/></a>
 <a target="_blank" href="mailto:avkoltovich@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=plastic&logo=Gmail&labelColor=black"/></a>
 <a target="_blank" href="https://www.codewars.com/users/avkoltovich"><img src="https://www.codewars.com/users/avkoltovich/badges/micro"/></a><br>
 
