@@ -1,7 +1,7 @@
 # Всем привет 👋
 - 🔭 В настоящее время я работаю разработчиком в ООО "Автомама".
 - 🌱 Изучаю Rust, WASM, Postgres, Python, Data Science, Swift и пишу свой пет проект для совместных <a target="_blank" href="https://becycled.me/">велосипедных тренировок</a>.
-- 💪 Довожу до совершенства знания по JavaScript, TypeScript, Angular, NestJS, RxJS, CSS, HTML.
+- 💪 Довожу до совершенства знания по JavaScript, TypeScript, NextJS, React, Angular, NestJS, RxJS, CSS, HTML.
 - 🏆 Победитель хакатона HACK>123.
 - 🏫 Являюсь наставником в HTML Академии.
 - 📫 Как меня найти:
